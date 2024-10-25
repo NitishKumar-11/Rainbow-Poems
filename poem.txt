@@ -6,7 +6,6 @@ Blue
 Green
 Indigo
 Unicorn
-Black
 Yellow
 Blanc
 Red
